@@ -1,0 +1,1 @@
+DocumentReader组件-json，学习RAG文档读取器的时候产生了一个想法，如果让我自己实现一个DocumentReader组件应该怎么做，所以查了资料，根据网上的文章简单写了一个demo，应该是有不少错误的
